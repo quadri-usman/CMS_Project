@@ -4,6 +4,7 @@
   "description": "Zuri Cohort II Training 2022\r Zuri Team Inc | I4G x Zuri Project Phase | 23-11-22",
   "main": "index.js",
   "scripts": {
+    "build": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "dev": "nodemon index.js"
